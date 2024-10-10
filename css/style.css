@@ -1,0 +1,48 @@
+/* css te yorum satırı yapmak için / * * / arasına yazılır. */
+
+
+#p2{
+    color:blue
+}
+
+#p1{
+    color:orange
+}
+
+h4{
+    font-size: 30px;
+    font-family: "Sixtyfour Convergence", sans-serif;    background-color: yellowgreen;
+    color: white;
+        border:1px dotted red;
+        border-radius:10px;
+        border-top: 10px solid green;
+        border-bottom: 10px solid green
+
+
+}
+
+
+/* css virgül mantığı ile çalışır. */
+
+h5{
+
+    color:red
+  
+
+}
+
+
+ul{
+    
+    color:white;
+    overflow: hidden;
+    background-color: #333;
+}
+
+
+.listem{
+
+  background-color: yellow;
+
+
+}

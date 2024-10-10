@@ -1,5 +1,5 @@
 # internet1
 
-merahaba dünya
+Merhaba Dünya
 
 https://fatihc07.github.io/internet1/
